@@ -1,0 +1,1 @@
+INSERT INTO bot_updates (update_description, app_version, sent) VALUES (?, ?, FALSE)

@@ -1,0 +1,1 @@
+SELECT u.dnd FROM users u WHERE client_database_id = ?

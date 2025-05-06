@@ -1,0 +1,1 @@
+SELECT 1 FROM bot_updates WHERE app_version = ? AND sent = TRUE;

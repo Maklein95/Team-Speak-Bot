@@ -1,0 +1,1 @@
+UPDATE users SET dnd = TRUE WHERE client_database_id = ?
